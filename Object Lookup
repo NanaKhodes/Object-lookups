@@ -7,8 +7,8 @@ function phoneticLookup(val) {
     "bravo"  : "Boston",
     "charlie" : "Chicago",
     "delta" :   "Denver",
-    "echo" : "echo",
-    "foxtrot": "frank",
+    "echo" : "Easy",
+    "foxtrot": "Frank",
 
   }
   result = lookup[val];
